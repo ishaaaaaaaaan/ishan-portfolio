@@ -2,7 +2,7 @@ import { useGLTF, useTexture } from '@react-three/drei';
 import { Path } from 'three';
 
 export default function HackerRoom(props) {
-  const { nodes, materials } = useGLTF('/models/hacker-room.glb');
+  const { nodes, materials } = useGLTF('./models/hacker-room.glb');
 
   const monitortxt = useTexture('textures/desk/monitor.png');
    const screenTxt = useTexture('textures/desk/screen.jpg');

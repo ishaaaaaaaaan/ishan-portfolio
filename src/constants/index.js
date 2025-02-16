@@ -100,7 +100,7 @@ export const navLinks = [
       subdesc:
         'With W-Chat!, users can experience instant messaging, responsive UI, Block and Unblock users in real time without any lag, by using ReactJS and Firebase newest features.',
       href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
-      texture: '/textures/project/project2.mp4',
+      texture: 'textures/project/project2.mp4',
       logo: 'assets/project-logo2.png',
       logoStyle: {
         backgroundColor: '#13202F',
@@ -137,7 +137,7 @@ export const navLinks = [
       subdesc:
         'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
       href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
-      texture: '/textures/project/project3.mp4',
+      texture: 'textures/project/project3.mp4',
       logo: 'assets/project-logo3.png',
       logoStyle: {
         backgroundColor: '#60f5a1',
@@ -176,7 +176,7 @@ export const navLinks = [
       subdesc:
         'Built with Epress, Node.js and OpenAI, Chat-Bot GPT ensures a smooth and secure user experience, tailored to meet the needs of modern consumers.',
       href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
-      texture: '/textures/project/project4.mp4',
+      texture: 'textures/project/project4.mp4',
       logo: 'assets/project-logo4.png',
       logoStyle: {
         backgroundColor: '#0E1F38',
@@ -213,7 +213,7 @@ export const navLinks = [
       subdesc:
         'Built with Javascript, HTML and CSS to create web extensions with a user-centric approach. It can be turned into a side income.',
       href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
-      texture: '/textures/project/project5.mp4',
+      texture: 'textures/project/project5.mp4',
       logo: 'assets/project-logo5.png',
       logoStyle: {
         backgroundColor: '#1C1A43',

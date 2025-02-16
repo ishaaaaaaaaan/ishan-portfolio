@@ -64,33 +64,33 @@ export const navLinks = [
         'Built as a e-commerce web app with React, Tailwind CSS, TypeScript, Framer Motion, Express and Mongo DB, Ecom-Store is designed for optimal performance and scalability.',
       href: 'https://mern-ecommerce-atmo.onrender.com/',
       texture: './textures/project/project1.mp4',
-      logo: './assets/project-logo1.png',
+      logo: 'assets/project-logo1.png',
       logoStyle: {
         backgroundColor: '#2A1816',
         border: '0.2px solid #36201D',
         boxShadow: '0px 0px 60px 0px #AA3C304D',
       },
-      spotlight: './assets/spotlight1.png',
+      spotlight: 'assets/spotlight1.png',
       tags: [
         {
           id: 1,
           name: 'React.js',
-          path: './assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
           name: 'TailwindCSS',
-          path: './assets/tailwindcss.png',
+          path: 'assets/tailwindcss.png',
         },
         {
           id: 3,
           name: 'TypeScript',
-          path: './assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: './assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -112,7 +112,7 @@ export const navLinks = [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -122,18 +122,18 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
     {
       title: 'CarePulse - Health Management System',
-      desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+      desc: 'An innovative healthcare platform designed to streamline essential medical process. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
       subdesc:
         'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
       href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
@@ -151,7 +151,7 @@ export const navLinks = [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -161,12 +161,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -188,22 +188,22 @@ export const navLinks = [
         {
           id: 1,
           name: 'React.js',
-          path: './assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
           name: 'TailwindCSS',
-          path: './assets/tailwindcss.png',
+          path: 'assets/tailwindcss.png',
         },
         {
           id: 3,
           name: 'TypeScript',
-          path: './assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: './assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -225,22 +225,22 @@ export const navLinks = [
         {
           id: 1,
           name: 'React.js',
-          path: './assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
           name: 'TailwindCSS',
-          path: './assets/tailwindcss.png',
+          path: 'assets/tailwindcss.png',
         },
         {
           id: 3,
           name: 'TypeScript',
-          path: './assets/typescript.png',
+          path: 'assets/typescript.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: './assets/framer.png',
+          path: 'assets/framer.png',
         },
       ],
     },
@@ -264,7 +264,7 @@ export const navLinks = [
       pos: 'Associate',
       duration: '2021 - Present',
       title: "Designing, developing, and maintaining both front-end (UI/UX) and back-end (server, database, APIs) systems, ensuring application performance, security, scalability, and collaborate with cross-functional teams to deliver complete solutions.",
-      icon: './assets/Cogni.png',
+      icon: 'assets/Cogni.png',
       animation: 'victory',
     },
     {
@@ -273,7 +273,7 @@ export const navLinks = [
       pos: 'Intern',
       duration: '2020 - 2021',
       title: "Building responsive user interfaces, implementing client-side logic, and integrating APIs also optimizing performance, ensure cross-browser compatibility, and maintain accessibility, SEO, and code quality through testing and version control.",
-      icon: './assets/citytech.png',
+      icon: 'assets/citytech.png',
       animation: 'clapping',
     },
     

@@ -63,7 +63,7 @@ export const navLinks = [
       subdesc:
         'Built as a e-commerce web app with React, Tailwind CSS, TypeScript, Framer Motion, Express and Mongo DB, Ecom-Store is designed for optimal performance and scalability.',
       href: 'https://mern-ecommerce-atmo.onrender.com/',
-      texture: './textures/project/project1.mp4',
+      texture: 'textures/project/project1.mp4',
       logo: 'assets/project-logo1.png',
       logoStyle: {
         backgroundColor: '#2A1816',
@@ -101,13 +101,13 @@ export const navLinks = [
         'With W-Chat!, users can experience instant messaging, responsive UI, Block and Unblock users in real time without any lag, by using ReactJS and Firebase newest features.',
       href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
       texture: '/textures/project/project2.mp4',
-      logo: '/assets/project-logo2.png',
+      logo: 'assets/project-logo2.png',
       logoStyle: {
         backgroundColor: '#13202F',
         border: '0.2px solid #17293E',
         boxShadow: '0px 0px 60px 0px #2F6DB54D',
       },
-      spotlight: '/assets/spotlight2.png',
+      spotlight: 'assets/spotlight2.png',
       tags: [
         {
           id: 1,
@@ -138,7 +138,7 @@ export const navLinks = [
         'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
       href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
       texture: '/textures/project/project3.mp4',
-      logo: '/assets/project-logo3.png',
+      logo: 'assets/project-logo3.png',
       logoStyle: {
         backgroundColor: '#60f5a1',
         background:
@@ -146,7 +146,7 @@ export const navLinks = [
         border: '0.2px solid rgba(208, 213, 221, 1)',
         boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
       },
-      spotlight: '/assets/spotlight3.png',
+      spotlight: 'assets/spotlight3.png',
       tags: [
         {
           id: 1,
@@ -177,13 +177,13 @@ export const navLinks = [
         'Built with Epress, Node.js and OpenAI, Chat-Bot GPT ensures a smooth and secure user experience, tailored to meet the needs of modern consumers.',
       href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
       texture: '/textures/project/project4.mp4',
-      logo: '/assets/project-logo4.png',
+      logo: 'assets/project-logo4.png',
       logoStyle: {
         backgroundColor: '#0E1F38',
         border: '0.2px solid #0E2D58',
         boxShadow: '0px 0px 60px 0px #2F67B64D',
       },
-      spotlight: './assets/spotlight4.png',
+      spotlight: 'assets/spotlight4.png',
       tags: [
         {
           id: 1,
@@ -214,13 +214,13 @@ export const navLinks = [
         'Built with Javascript, HTML and CSS to create web extensions with a user-centric approach. It can be turned into a side income.',
       href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
       texture: '/textures/project/project5.mp4',
-      logo: '/assets/project-logo5.png',
+      logo: 'assets/project-logo5.png',
       logoStyle: {
         backgroundColor: '#1C1A43',
         border: '0.2px solid #252262',
         boxShadow: '0px 0px 60px 0px #635BFF4D',
       },
-      spotlight: './assets/spotlight5.png',
+      spotlight: 'assets/spotlight5.png',
       tags: [
         {
           id: 1,

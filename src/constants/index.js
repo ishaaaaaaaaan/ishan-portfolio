@@ -171,10 +171,10 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Chat-Bot GPT',
-      desc: 'Built an AI-powered chatbot application with natural language processing for automated responses and seamless user interactions. Integrated with APIs and databases to provide real-time assistance, support, and task automation.',
+      title: 'She Knows!',
+      desc: 'Built an AI-powered chatbot application with natural language processing, lang-chain and RAG concept for automated responses and seamless user interactions. Integrated with APIs and databases to provide real-time assistance, support, and task automation.',
       subdesc:
-        'Built with Epress, Node.js and OpenAI, Chat-Bot GPT ensures a smooth and secure user experience, tailored to meet the needs of modern consumers.',
+        'Built with Express, Node.js and OpenAI, She Knows! ensures a smooth and secure user experience, tailored to meet the needs of modern consumers.',
       href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
       texture: 'textures/project/project4.mp4',
       logo: 'assets/project-logo4.png',
